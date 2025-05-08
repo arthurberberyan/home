@@ -5,7 +5,7 @@ I am a final-year physics graduate student at California State University, North
 If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com/file/d/1VYbQxM2xmKzhRkGIRDJYDZTW5hNGAdhF/view?usp=sharing).
 
 ## Education
-- PhD Student, Astronomy | UC San DIego (_Upcoming September 2025_)
+- Ph.D. Student, Astronomy | UC San Diego (_Upcoming Sept. 2025_)
 - M.S., Physics | CSU Northridge (_May 2025_)
 - B.S., Astrophysics | CSU Northridge (_May 2023_)
 
