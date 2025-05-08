@@ -29,7 +29,7 @@ If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com
 - The paper was published in August 2024 (woo-hoo!)
 
 <div align="center">
-<img src="https://arthurberberyan.github.io/home/assets/img/transregutd2.png" width="600">
+<img src="https://arthurberberyan.github.io/home/assets/img/transregutd2.png" width="500">
 </div>
 <br />
 
