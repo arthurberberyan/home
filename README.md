@@ -7,7 +7,7 @@ If you would like to contact me: [aberberyan [at] ucsd [dot] com](mailto:aberber
 If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com/file/d/1VYbQxM2xmKzhRkGIRDJYDZTW5hNGAdhF/view?usp=sharing).
 
 ## Education
-- Ph.D. Student, Astronomy | UC San Diego (_Upcoming Sept. 2025_)
+- Ph.D. Student, Astronomy | UC San Diego (_Starting Sept. 2025_)
 - M.S., Physics | CSU Northridge (_May 2025_)
 - B.S., Astrophysics | CSU Northridge (_May 2023_)
 
