@@ -1,6 +1,8 @@
 # Graduate Student
 
-I am a final-year physics graduate student at California State University, Northridge, and an upcoming PhD student at the University of California, San Diego. If you would like to contact me, please email me at [aberberyan [at] ucsd [dot] com](mailto:aberberyan@ucsd.edu).
+I am a final-year physics graduate student at California State University, Northridge, and an upcoming Ph.D. student at the University of California, San Diego. 
+
+If you would like to contact me, please email me at [aberberyan [at] ucsd [dot] com](mailto:aberberyan@ucsd.edu).
 
 If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com/file/d/1VYbQxM2xmKzhRkGIRDJYDZTW5hNGAdhF/view?usp=sharing).
 
