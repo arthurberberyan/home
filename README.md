@@ -63,7 +63,7 @@ If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com
 <br />
 
 ## Educational Experience 
-**Teaching Associate for the [Department of Physics & Astronomy](https://w2.csun.edu/science-mathematics/physics-astronomy) at California State University, Northridge. (_August 2023 - Present_)**
+**Teaching Associate for the [Department of Physics & Astronomy](https://w2.csun.edu/science-mathematics/physics-astronomy) at California State University, Northridge. (_August 2023 - May 2025_)**
 - Contributed to students' academic success in varying subjects, including electromagnetism, circuits, optics, astronomy, mechanics, statistical analysis, and engineering.
 - My goal is to simplify complex scientific concepts and provide a healthy, welcoming environment to students of all backgrounds
 - My passion for teaching comes from my love for physics and astronomy, and I hope to one day obtain a professorship
