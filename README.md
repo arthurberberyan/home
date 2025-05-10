@@ -23,7 +23,7 @@ If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com
 - _Elastic Wave Propagation in Compressed Phononic Crystals_, presented at the [Center for Complex Materials](https://pccm.princeton.edu/) at Princeton University. (_August 2022_) [poster](https://drive.google.com/file/d/1zIn6Jd-08JxAgyeDPFpY2Xki72a9HxLn/view?usp=sharing)
 
 ## Research Experience 
-**Solar Physics Researcher at California State University, Northridge with [Dr. Damian J. Christian](https://academics.csun.edu/faculty/damian.christian). (_August 2021 - Present_)**
+**Solar Physics Researcher at California State University, Northridge with [Dr. Damian J. Christian](https://academics.csun.edu/faculty/damian.christian). (_August 2021 - May 2025_)**
 - Investigating the Coronal heating issue by studying mode coupling in magnetic bright points within the different layers of the Sun
 - Utilizing **IDL** and **bash** to derive light curves, calculate frequencies and periods to look for possible wave heating mechanisms
 - The paper was published in August 2024 (woo-hoo!)
@@ -33,7 +33,7 @@ If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com
 </div>
 <br />
 
-**REU with [Dr. Andrej Košmrlj](https://www.princeton.edu/~akosmrlj/) at the [Princeton Center for Complex Materials](https://pccm.princeton.edu/) at Princeton University. (_June 2022 - August 2022_)**
+**REU at the [Princeton Center for Complex Materials](https://pccm.princeton.edu/) with [Dr. Andrej Košmrlj](https://www.princeton.edu/~akosmrlj/) at Princeton University. (_June 2022 - August 2022_)**
 - Research in acoustic metamaterials, specifically investigating elastic wave propagation in compressed phononic crystals
 - Collaborated with Princeton graduate students, incorporating **Python** coding with open source **FEniCSx** to solve PDEs and gain insight into how elastic waves behave in deforming materials
 - Conclusions led to promising applications in noise reduction and vibrational control
@@ -46,7 +46,7 @@ If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com
 **Research Assistant at the [Infrared Processing and Analysis Center](https://www.ipac.caltech.edu/) (IPAC) with [Dr. David R. Ciardi](https://web.ipac.caltech.edu/staff/ciardi/) at Caltech. (_August 2019 - August 2020_)**
 - Utilized data from NASA’s TESS Satellite, Palomar, Keck Observatories, and the NASA Exoplanet Science Institute (NExScI) archive, to process images and categorize 150+ TESS Objects of Interest (TOI) candidate stars and exoplanets with high image processing in near-infrared adaptive optics
 - Analyzed stellar data **(IDL)**, calculated star magnitudes, distances, and luminosities (also data from Palomar and Keck Observatories)
-- Contributed to better understanding of potential habitable planets and their host stars
+- Contributed to a better understanding of potential habitable planets and their host stars
 
 <div align="center">
 <img src="https://www.ipac.caltech.edu/system/activities/logos/31/small/nexsci_logo.png?1565396370" width="450">
@@ -65,10 +65,10 @@ If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com
 ## Educational Experience 
 **Teaching Associate for the [Department of Physics & Astronomy](https://w2.csun.edu/science-mathematics/physics-astronomy) at California State University, Northridge. (_August 2023 - Present_)**
 - Contributed to students' academic success in varying subjects, including electromagnetism, circuits, optics, astronomy, mechanics, statistical analysis, and engineering.
-- My goal is to simply complex scientific concepts and provide a healthy, welcoming environment to students of all backgrounds
-- My passion for teaching comes from my love for physics and astronomy to eventually one-day professorship
+- My goal is to simplify complex scientific concepts and provide a healthy, welcoming environment to students of all backgrounds
+- My passion for teaching comes from my love for physics and astronomy, and I hope to one day obtain a professorship
 - _Some of the recent labs I have conducted_:
-  - ASTR 154L: Observational Astronomy Lab (_August 2023 - Present_)
+  - ASTR 154L: Observational Astronomy Lab (_August 2023 - May 2025_)
   - PHYS 220AL: Mechanics Lab (_January 2024 - May 2024_)
   - PHYS 100BL: General Physics II (_August 2023 - December 2023_)
 
